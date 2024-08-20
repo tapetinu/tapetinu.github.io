@@ -7,7 +7,8 @@ export default function Home() {
 				</svg>
 			</div>
 			<div className="text-center font-bold text-xl text-white">
-				Website under construction
+				<p>Website under construction</p>
+				<p>{process.env.ROOT_URL}</p>
 			</div>
 		</main>
 	);
