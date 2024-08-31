@@ -1,4 +1,5 @@
-## This website is under construction
+## About this website
+#### If you're reading this text from the website, please wait for a moment before refreshing the page.
 
 This website is built using [Next.js](https://nextjs.org/learn)
 
